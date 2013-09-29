@@ -1,0 +1,6 @@
+insert into %TABLE% values (0,0,'学院概况','',0);
+insert into %TABLE% values (0,0,'教育教学','',0);
+insert into %TABLE% values (0,0,'科学研究','',0);
+insert into %TABLE% values (0,0,'学生风采','',0);
+insert into %TABLE% values (0,0,'招生就业','',0);
+insert into %TABLE% values (0,0,'下载中心','',0);
